@@ -90,7 +90,7 @@ new Vue({
             // Make a log of flee.
             this.makeLog(
                 false,
-                `Player fleed from the battlefield, monster wins!`
+                `Player fleeded from the battlefield, monster wins!`
             );
             if (
                 confirm('You decided to flee from monster.\nStart a new game?')
